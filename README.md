@@ -25,19 +25,19 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,linux,docker,aws" />
 </p>
 
-> 💪 **Frontend:** <br>  
+> 💪 **Frontend:**  
 > ⚡ HTML5 • CSS3 • JavaScript (ES6+) • React.js • Next.js • Tailwind CSS • Bootstrap  
 
-> 🧩 **Backend:** <br>  
+> 🧩 **Backend:**  
 > 🚀 Node.js • Express.js • JWT • REST APIs • WebSockets  
 
-> 💾 **Databases:** <br>  
+> 💾 **Databases:**  
 > 🗄️ MongoDB • MySQL  
 
-> ☁️ **Cloud & DevOps:** <br>  
+> ☁️ **Cloud & DevOps:**  
 > 🐳 Docker • Kubernetes • AWS EC2 • Render • CI/CD Automation  
 
-> 🧰 **Tools & Workflow:** <br>  
+> 🧰 **Tools & Workflow:**  
 > 🧠 Git • Linux • VS Code • Agile Development  
 
 ---
@@ -107,4 +107,3 @@
 2️⃣ Create .github/workflows/snake.yml with the snake action below.
 3️⃣ Commit & push, and the SVG will appear here!
 -->
-
