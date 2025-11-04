@@ -1,83 +1,82 @@
-<!-- 🐍 Subrat Sethi | Full Stack Developer 🐍 -->
+<!-- 🛰️ Subrat Sethi | Full Stack Developer 🛰️ -->
 
-<h1 align="center">Hey there, I'm <a href="https://myportfolio-0b8f.onrender.com/" target="_blank">Subrat Sethi</a> 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Cloud | DevOps | Scalable Systems 💡</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00E6FF&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+Subrat+Sethi+👋;Full+Stack+Developer+%7C+Cloud+%7C+DevOps+Engineer+🚀" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Building Scalable, Intelligent, and Cloud-Powered Web Apps ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+From+India+🇮🇳;Building+Scalable+Cloud+Apps+With+MERN+⚡;Docker+%7C+AWS+%7C+Next.js+%7C+CI%2FCD+%7C+Tailwind+CSS+💻;Always+Learning+And+Deploying+🚀" alt="Typing SVG" />
+  <a href="https://myportfolio-0b8f.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00E6FF" /></a>
+  <a href="https://github.com/Subrat-IO" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E6FF" /></a>
+  <a href="https://www.linkedin.com/in/subrat-sethi-941b17217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧠 About Me  
 
-💡 Passionate about building **modern web apps** that scale beautifully.  
-🎯 Strong in **React, Node.js, MongoDB, and Dockerized deployments**.  
-⚙️ Currently learning **advanced DevOps automation & AI integrations**.  
-💬 Ask me about **Full Stack Development, Cloud Deployments, or CI/CD**.  
-⚡ Motto: *“Clean Code. Smart Design. Seamless Deployment.”*
+💡 Passionate about **scalable cloud-native apps** that blend functionality and flair.  
+💼 Skilled in **MERN stack, Cloud Deployments, and CI/CD automation**.  
+🛠 Currently exploring **AI-powered DevOps & container orchestration**.  
+💬 Let’s talk about **Full Stack Systems, Cloud Design, and API strategy**.  
+⚡ Motto: _“Code Smart. Deploy Fast. Scale Limitlessly.”_
 
 ---
 
-## 🛠️ Tech Arsenal  
+## ⚙️ Tech Stack Mastery  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,linux,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,linux,docker,aws" height="75"/>
 </p>
 
-> 💪 **Frontend:**  
-> ⚡ HTML5 • CSS3 • JavaScript (ES6+) • React.js • Next.js • Tailwind CSS • Bootstrap  
-
-> 🧩 **Backend:**  
-> 🚀 Node.js • Express.js • JWT • REST APIs • WebSockets  
-
-> 💾 **Databases:**  
-> 🗄️ MongoDB • MySQL  
-
-> ☁️ **Cloud & DevOps:**  
-> 🐳 Docker • Kubernetes • AWS EC2 • Render • CI/CD Automation  
-
-> 🧰 **Tools & Workflow:**  
-> 🧠 Git • Linux • VS Code • Agile Development  
+> 🧩 **Frontend:** React • Next.js • Tailwind • Bootstrap  
+> 🔧 **Backend:** Node.js • Express • JWT • REST • WebSockets  
+> 🗄 **Database:** MongoDB • MySQL  
+> ☁️ **Cloud & DevOps:** Docker • Kubernetes • AWS EC2 • CI/CD  
+> 🧠 **Tools:** Git • Linux • VS Code • Agile Practices  
 
 ---
 
-## 💎 Featured Projects  
+## 💎 Featured Works  
 
-### 🏠 [Airbnb Clone](https://travelgo-1wn1.onrender.com/listings)
-> A full-featured booking platform with real-time availability, admin panel, and map integration.  
-> **Tech Stack:** MERN + Docker + AWS  
-
----
-
-### 💼 [LinkedIn Clone](https://web-surfer-nine.vercel.app/)
-> Professional social networking platform with posts, messaging, and real-time notifications.  
-> **Tech Stack:** Next.js + MongoDB + Tailwind CSS + Docker  
+### 🏠 [Airbnb Clone](https://travelgo-1wn1.onrender.com/listings)  
+A responsive booking platform with map integration, live availability, and admin control.  
+**Stack:** MERN + Docker + AWS
 
 ---
 
-### 🤖 [ChatGPT Clone](https://my-a-pp-theta.vercel.app/)
-> AI-powered chat interface with secure authentication and real-time sessions.  
-> **Tech Stack:** Next.js + Express.js + MongoDB + REST API  
+### 💼 [LinkedIn Clone](https://web-surfer-nine.vercel.app/)  
+A professional social platform featuring posts, chat, and real-time updates.  
+**Stack:** Next.js + MongoDB + Tailwind + Docker
 
 ---
 
-## 🎓 Certification  
-📜 **Full Stack Web Development with React & Node.js** — *Apna College*
+### 🤖 [ChatGPT Clone](https://my-a-pp-theta.vercel.app/)  
+AI-driven chat interface with dynamic sessions and user authentication.  
+**Stack:** Next.js + Express + MongoDB + REST API
 
 ---
 
-## 🌐 Connect With Me  
+## 🎓 Credentials  
+📜 **Full Stack Web Development with React & Node.js** — Apna College  
+
+---
+
+## 🧩 GitHub Analytics  
 
 <p align="center">
-  <a href="https://myportfolio-0b8f.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Subrat-IO" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/subrat-sethi-941b17217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Subrat-IO&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subrat-IO&theme=radical&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat-IO&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 🐍 Watch My Contributions Turn Into a Snake
+## 🐍 Snake Contribution Animation  
 
 <p align="center">
   <img src="https://github.com/Subrat-IO/Subrat-IO/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -85,25 +84,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subrat-IO&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subrat-IO&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat-IO&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
 <h3 align="center">“Eat 🧠 Sleep 😴 Code 💻 Repeat 🔁”</h3>
 
 ---
-
-<!-- 🐍 GitHub Snake Action Setup:
-1️⃣ Fork this repo into your Subrat-IO/Subrat-IO.
-2️⃣ Create .github/workflows/snake.yml with the snake action below.
-3️⃣ Commit & push, and the SVG will appear here!
--->
