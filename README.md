@@ -275,7 +275,7 @@ const subrat = {
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ [MacOS Portfolio](https://github.com/Subrat-IO/mac)
+### 🖥️ [MacGov Website](https://github.com/Subrat-IO/mac)
 
 <a href="https://github.com/Subrat-IO/mac">
   <img src="https://img.shields.io/badge/📁_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=fff" />
@@ -455,7 +455,7 @@ Gandhi Engineering College, Bhubaneswar
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20For%20Visiting!%20⚡&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
