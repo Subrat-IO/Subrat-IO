@@ -344,7 +344,7 @@ const subrat = {
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat-IO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=C9D1D9&langs_count=8&hide=html,css" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat-IO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=C9D1D9&langs_count=8&hide=html,css,python,jupyter%20notebook" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Subrat-IO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF" />
 </p>
 
