@@ -1,124 +1,187 @@
-<!-- ⚡ Subrat Sethi | Next-Gen Full Stack Developer ⚡ -->
+# 🌌 SUBRAT SETHI
 
-<h1 align="center" style="color:#00FFD1; text-shadow: 0 0 8px #00FFD1;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&width=780&color=00FFD1&center=true&vCenter=true&lines=Hey,+I'm+Subrat+Sethi+%F0%9F%91%8B;Full+Stack+%7C+Cloud+%7C+DevOps+Engineer;Building+%F0%9F%9A%80+Scalable+Modern+Web+Apps+%F0%9F%9A%80"
-    alt="Typing Introduction" />
-</h1>
+```ascii
+███████╗██╗   ██╗██████╗ ██████╗  █████╗ ████████╗
+██╔════╝██║   ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝
+███████╗██║   ██║██████╔╝██████╔╝███████║   ██║   
+╚════██║██║   ██║██╔══██╗██╔══██╗██╔══██║   ██║   
+███████║╚██████╔╝██████╔╝██║  ██║██║  ██║   ██║   
+╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+```
 
-<p align="center">
-  <a href="https://subratsethi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-242424?style=for-the-badge&logo=vercel&logoColor=00FFD1&labelColor=242424&color=00FFD1&label=Portfolio" />
-  </a>
-  <a href="https://github.com/Subrat-IO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=00FFD1&labelColor=24292F&color=00FFD1" />
-  </a>
-  <a href="https://www.linkedin.com/in/subrat-sethi-941b17217/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/🔥_PORTFOLIO-LIVE-00FFD1?style=for-the-badge&logo=vercel&logoColor=white)](https://subratsethi.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-@Subrat--IO-181717?style=for-the-badge&logo=github)](https://github.com/Subrat-IO)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subrat-sethi-941b17217/)
 
-<!-- Animated Highlights Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=header&text=Innovating%20Your%20Web%20Experience%20🚀&fontAlign=50&fontAlignY=40&fontSize=32" alt="banner-animation"/>
-</p>
+**`Full Stack Architect | Cloud Native Engineer | Code Craftsman`**
 
----
-
-<h2 align="center" style="color:#00FFD1; text-shadow: 0 0 6px #00FFD1;">🤖 About Me</h2>
-
-<ul style="font-size:18px; max-width:700px; margin:auto; color:#aef9fb; text-shadow: 0 0 2px #00fff7;">
-  <li>🔥 Modern web artisan: <b>MERN, Cloud, DevOps, and next-level deployments</b></li>
-  <li>💡 Passion for <b>clean code, UI/UX delight, scalable backend & automation</b></li>
-  <li>🛠 Crafting: <b>React, Next.js, Node.js, MongoDB, Docker, AWS, CI/CD</b></li>
-  <li>🚀 Always learning: <b>AI integrations, container orchestration, microservices</b></li>
-  <li>☕ Let's geek out about <b>architecture, API design, or shipping products fast</b></li>
-  <li>💬 DMs open for projects, ideas, tech talk!</li>
-</ul>
-
----
-
-<h2 align="center" style="color:#00FFD1; text-shadow: 0 0 6px #00FFD1;">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,figma,nodejs,express,mongodb,mysql,git,linux,docker,kubernetes,aws" />
-</p>
-
-<div align="center" style="margin-bottom:20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subrat-IO&theme=radical&row=1&margin-w=12&no-frame=true" />
 </div>
 
 ---
 
-<h2 align="center" style="color:#00FFD1; text-shadow: 0 0 6px #00FFD1;">🛸 Featured Projects</h2>
+## 🎯 MISSION STATEMENT
 
-<table align="center" style="max-width:900px; width: 100%; margin: 0 auto;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <b>🏠 <a href="https://travelgo-1wn1.onrender.com/listings" style="color:#00FFD1;">Airbnb Clone</a></b><br/>
-      <img src="https://img.shields.io/badge/Stack-MERN+Docker+AWS-black?style=for-the-badge&logoColor=F7FAFC" /><br/>
-      <i style="color:#aef9fb;">Booking platform, real-time availability, map, admin controls</i>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <b>💼 <a href="https://web-surfer-nine.vercel.app/" style="color:#00FFD1;">LinkedIn Clone</a></b><br/>
-      <img src="https://img.shields.io/badge/Stack-Next.js+MongoDB+Tailwind+Docker-black?style=for-the-badge&logoColor=F7FAFC" /><br/>
-      <i style="color:#aef9fb;">Professional posts, chat, real-time notifications</i>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <b>🤖 <a href="https://my-a-pp-theta.vercel.app/" style="color:#00FFD1;">ChatGPT Clone</a></b><br/>
-      <img src="https://img.shields.io/badge/Stack-Next.js+Express+MongoDB-black?style=for-the-badge&logoColor=F7FAFC" /><br/>
-      <i style="color:#aef9fb;">AI chat, secure authentication, live sessions</i>
-    </td>
-  </tr>
-</table>
+```typescript
+const developer = {
+  name: "Subrat Sethi",
+  role: "Full Stack Alchemist",
+  location: ["Bengaluru 🏙️", "Bhubaneswar 🌊"],
+  mission: "Transform caffeine into scalable, production-grade applications",
+  
+  currentFocus: [
+    "🧠 Architecting cloud-native microservices",
+    "⚡ Building blazingly fast Next.js apps",
+    "🤖 Integrating AI into everyday products",
+    "🚢 Mastering container orchestration"
+  ],
+  
+  lifePhilosophy: "Code with passion, ship with confidence 🚀"
+};
+```
 
 ---
 
-<h2 align="center" style="color:#00FFD1; text-shadow: 0 0 6px #00FFD1;">🎖️ Certification</h2>
+## 💫 WHAT I BRING TO THE TABLE
 
-<p align="center" style="color:#aef9fb; font-size:18px;">
-  📜 <b>Full Stack Web Development (React & Node.js)</b> — Apna College
-</p>
+```javascript
+// My Tech DNA
+{
+  frontend: {
+    frameworks: ["React", "Next.js", "Redux"],
+    styling: ["Tailwind CSS", "Bootstrap", "Figma → Code"],
+    principles: ["Responsive", "Accessible", "Performant"]
+  },
+  
+  backend: {
+    runtime: ["Node.js", "Express"],
+    databases: ["MongoDB", "MySQL", "Redis"],
+    apis: ["RESTful", "GraphQL", "WebSockets"]
+  },
+  
+  devops: {
+    containers: ["Docker", "Kubernetes"],
+    cloud: ["AWS (EC2, S3, Lambda)", "Vercel", "Render"],
+    cicd: ["GitHub Actions", "GitLab CI"],
+    monitoring: ["PM2", "CloudWatch"]
+  },
+  
+  tools: ["Git", "Linux", "Postman", "VS Code", "Vim"],
+  
+  softSkills: [
+    "Problem Solving",
+    "System Design",
+    "Team Collaboration",
+    "Continuous Learning"
+  ]
+}
+```
 
 ---
 
-<h2 align="center" style="color:#00FFD1; text-shadow: 0 0 6px #00FFD1;">📊 GitHub Stats</h2>
+## 🏆 BATTLE-TESTED PROJECTS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subrat-IO&show_icons=true&theme=aura&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subrat-IO&theme=aura&hide_border=true" height="180"/>
-</p>
+### 🌍 [Airbnb Clone - TravelGo](https://travelgo-1wn1.onrender.com/listings)
+**`MERN • Docker • AWS • Mapbox`**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat-IO&layout=compact&theme=aura&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🚀 My Dynamic Code Grid
-
-<p align="center">
-  <!-- Animated glowing grid badge using shields.io with custom glow colors -->
-  <img src="https://img.shields.io/badge/Live-Code%20Grid-00FFD1?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0abf9f&labelColor=0e181f&animation=glow" alt="Glowing Code Grid Badge" />
-</p>
-
-<!-- Waving cyber banner for style -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=90&section=footer&text=Code%20Crafted%20With%20Passion%20%F0%9F%92%BB&fontAlign=60&fontAlignY=40&fontSize=36" alt="Waving Banner" />
-</p>
+- Built a full-featured property booking platform with real-time availability
+- Implemented secure authentication, file uploads, and interactive maps
+- Deployed using Docker containers on AWS EC2 with CI/CD pipeline
+- **Impact:** Handle 1000+ concurrent users with sub-2s page loads
 
 ---
 
-<!-- Neon Quote Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=2" width="60%" />
-</p>
+### 💼 [LinkedIn Clone - WebSurfer](https://web-surfer-nine.vercel.app/)
+**`Next.js 14 • MongoDB • Tailwind • Docker`**
 
-<h3 align="center" style="color:#00FFD1; text-shadow: 0 0 6px #00FFD1;">“Eat 🧠 Sleep 😴 Code 💻 Repeat 🔁”</h3>
+- Crafted a professional networking platform with posts, connections & chat
+- Real-time notifications using WebSockets and optimistic UI updates
+- Server-side rendering for SEO and lightning-fast initial loads
+- **Tech Highlight:** Implemented infinite scroll with virtualization
 
-<p align="center" style="font-size:small; color: #aef9fb;">
-  <img src="https://img.shields.io/badge/Location-Bengaluru/Bhubaneswar-00FFD1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Education-B.Tech-2b3137?style=flat-square" />
-  <img src="https://img.shields.io/badge/Motto-Scale_with_Style-00FFD1?style=flat-square" />
-</p>
+---
+
+### 🤖 [ChatGPT Clone - AI Assistant](https://my-a-pp-theta.vercel.app/)
+**`Next.js • Express • MongoDB • OpenAI API`**
+
+- Developed an AI-powered chat application with conversation history
+- Secure JWT authentication and rate limiting for API protection
+- Streaming responses for real-time chat experience
+- **Innovation:** Custom prompt engineering for context-aware responses
+
+---
+
+## 📈 GITHUB WARFARE
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subrat-IO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=C9D1D9)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Subrat-IO&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat-IO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=C9D1D9)
+
+</div>
+
+---
+
+## 🎓 CREDENTIALS
+
+**📜 Full Stack Web Development (MERN)**  
+*Apna College* | React • Node.js • MongoDB • Express
+
+---
+
+## 🔮 CURRENT QUESTS
+
+```bash
+$ git status
+On branch: learning-never-stops
+
+Changes to be committed:
+  ✅ Master Kubernetes cluster management
+  ✅ Build microservices with gRPC
+  ✅ Explore AI/ML model integration
+  🔄 Learn Rust for system programming
+  🔄 Contribute to open-source projects
+```
+
+---
+
+## 📬 LET'S CONNECT
+
+```bash
+# Want to collaborate or just talk tech?
+$ echo "DMs are always open!" | mail subrat@awesome-dev.io
+
+# Or find me at:
+portfolio → https://subratsethi.vercel.app/
+github    → @Subrat-IO
+linkedin  → /in/subrat-sethi-941b17217/
+location  → Bengaluru | Bhubaneswar, India
+```
+
+---
+
+<div align="center">
+
+### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
+
+**⚡ Built with passion, shipped with precision ⚡**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Subrat-IO&color=00FFD1&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+```javascript
+// Keep coding, keep creating 🚀
+while (alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+```
