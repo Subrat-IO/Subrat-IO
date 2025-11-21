@@ -33,9 +33,10 @@ const subrat = {
   experience: "1+ Years in Production",
   
   currentRole: {
-    company: "Nirmalya Metropolis",
+    company: "Adsquare Tech Solutions",
+    location: "Bengaluru, Karnataka",
     position: "Full Stack Developer",
-    duration: "Apr 2024 - Mar 2025"
+    status: "Currently Working"
   },
   
   specialization: [
@@ -313,6 +314,19 @@ const subrat = {
 ## 💼 PROFESSIONAL EXPERIENCE
 
 <img align="right" alt="Work" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+### 🏢 Full Stack Developer
+**Adsquare Tech Solutions** | Bengaluru, Karnataka | Present
+
+- 🚀 Developing scalable full-stack web applications using MERN stack
+- 💻 Building responsive, user-centric frontend interfaces with React.js and Next.js
+- ⚙️ Architecting RESTful APIs and backend services with Node.js and Express.js
+- 🗄️ Designing and optimizing MongoDB database schemas for performance
+- 🐳 Implementing Docker containerization for consistent deployment environments
+- ☁️ Managing cloud infrastructure and deployments on AWS
+- 🔄 Setting up CI/CD pipelines for automated testing and deployments
+- 🤝 Collaborating with cross-functional teams in Agile development cycles
+- 📈 Optimizing application performance and implementing best practices
 
 ### 🏢 Full Stack Developer
 **Nirmalya Metropolis** | Apr 2024 - Mar 2025
