@@ -454,9 +454,7 @@ Gandhi Engineering College, Bhubaneswar
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=⭐+Star+my+repositories+if+useful!;💬+Open+to+collaboration+%26+opportunities!;📫+Let's+build+something+amazing+together!;☕+Powered+by+JavaScript+and+determination!" alt="Footer" />
